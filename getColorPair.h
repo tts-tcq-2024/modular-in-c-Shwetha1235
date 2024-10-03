@@ -1,6 +1,6 @@
-#include "colorPairDataStructures.h"
+#include "colorPair.h"
 
-ColorPair ConvertNumberToColorPair(int pairNumber) {
+ColorPair GetColorPair(int pairNumber) {
     ColorPair colorPair;
     int zeroBasedPairNumber = pairNumber - 1;
     colorPair.majorColor = 
