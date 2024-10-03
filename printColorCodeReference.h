@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "colorPairDataStructure"
+#include "colorPair"
 
 bool printColorCodeReference(int numberOfMajorColors, int numberOfMinorColors){
   int pairnumber=1;
