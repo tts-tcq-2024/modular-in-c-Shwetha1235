@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <assert.h> 
 #include "colorPair.h"
-#include "getNumberFromGivenColorPair.h"
-#include "getColorPairFromGivenNumber.h"
+#include "GetColorPairNumber.h"
+#include "getColorPair.h"
 
 
 void testNumberToColorPair(int pairNumber,
